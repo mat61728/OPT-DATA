@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OPMS_instance>
+   <Incerteza>
+      <p0>120.35</p0>
+      <precomedio>6.38</precomedio>
+      <desviopreco>3.49</desviopreco>
+      <H>1</H>
+      <dt>0.01</dt>
+   </Incerteza>
+   <Simulador>
+      <replicacoes>100</replicacoes>
+   </Simulador>
+   <Mina>
+      <tx>15</tx>
+      <ty>20</ty>
+      <tz>20</tz>
+      <Arqblocos>Experimentos_Computacionais/15_20_20/2/Input/Arquivos/b'arqTest'.bloc</Arqblocos>
+      <Arqprec>Experimentos_Computacionais/15_20_20/2/Input/Arquivos/b'arqTest'.prec</Arqprec>
+      <Arqsuc>Experimentos_Computacionais/15_20_20/2/Input/Arquivos/b'arqTest'.suc</Arqsuc>
+      <Arqvizi>Experimentos_Computacionais/15_20_20/2/Input/Arquivos/b'arqTest'.vizi</Arqvizi>
+      <Arqupit>Experimentos_Computacionais/15_20_20/2/Input/Arquivos/b'arqTest'.upit</Arqupit>
+      <Arquprec>Experimentos_Computacionais/15_20_20/2/Input/Arquivos/b'arqTest'.uprec</Arquprec>
+   </Mina>
+</OPMS_instance>
